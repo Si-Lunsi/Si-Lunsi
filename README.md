@@ -34,7 +34,7 @@ Motivated and passionate AI/ML Engineer with strong problem-solving skills and a
 
 ## 🌍 Connect with Me
 
-* 💼 [LinkedIn](linkedin.com/in/sithivinayagam-lunsiya)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sithivinayagam-lunsiya/)
 * 🐙 [GitHub](https://github.com/Si-Lunsi))
 * ✉️ [Email Me](lunsiya15@gmail.com)
 
