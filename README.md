@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Lunsiya Sithivinayagam
 
-### 🧠 About Me AI
+### 🧠 About Me 
 
-I’m passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
-This repository is my **About Me AI** — a living document powered by projects, experiments, and ideas I explore in AI.
+Motivated and passionate AI/ML Engineer with strong problem-solving skills and a track record of delivering innovative solutions. Proficient in Python, TensorFlow, and PyTorch. Experienced in computer vision and NLP, with a strong background in software development, team collaboration, and self-directed learning.
 
 ---
 
@@ -13,15 +12,6 @@ This repository is my **About Me AI** — a living document powered by projects,
 * 📊 Analyze data and create insights with Python & SQL
 * 🧩 Experiment with LLMs (OpenAI, Hugging Face, LangChain)
 * 🌐 Deploy AI projects to the cloud (AWS, GCP, or Azure)
-
----
-
-## 📂 This Repo Contains
-
-* `projects/` → My AI experiments & mini-projects
-* `notebooks/` → Jupyter notebooks for research & learning
-* `resources/` → Curated AI/ML learning materials
-* `README.md` → This file (About Me AI 💡)
 
 ---
 
